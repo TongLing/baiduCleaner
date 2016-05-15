@@ -10,3 +10,14 @@
     margin-bottom: auto;*/
 }
 
+#ec_im_container{
+	height:0;
+	overflow: hidden;
+	margin-bottom:0;
+}
+
+#content_right{
+	height:0;
+	overflow: hidden;
+	margin-bottom: 0;
+}
