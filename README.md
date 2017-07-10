@@ -7,7 +7,7 @@ Here is comparison before and after using this component.
 
 ---
 
-##Version
+## Version
 
 1.0.1 -- Release in May 15, 2016
 This version creates basic function -- to block fundamental Ads.
@@ -16,7 +16,7 @@ This version creates basic function -- to block fundamental Ads.
 
 ---
 
-##QuickStart
+## QuickStart
 
 To start to use it, you need to:
 
@@ -30,14 +30,14 @@ Enjoy using it!
 
 ---
 
-##To do List
+## To do List
 In the future, This component will:
 * support more searching websites
 * filter Ads completely
 
 ---
 
-#baiduCleaner
+# baiduCleaner
 
 baiduCleaner是一款去广告插件，可以帮助清除百度搜索结果页面中的所有带"推广"字样的链接。
 
@@ -46,7 +46,7 @@ baiduCleaner是一款去广告插件，可以帮助清除百度搜索结果页�
 
 ---
 
-##版本更新
+## 版本更新
 1.0.1 -- 2016年 5月 15日 发布
 添加了百度搜索页面中最基本的广告过滤功能
 ![before](img/1.0.1 - before.png)
@@ -54,7 +54,7 @@ baiduCleaner是一款去广告插件，可以帮助清除百度搜索结果页�
 
 
 ---
-使用教程：
+## 使用教程：
 
 1、下载解压baiduCleaner.zip
 2、打开chrome，URL输入chrome://extensions/
@@ -66,8 +66,8 @@ baiduCleaner是一款去广告插件，可以帮助清除百度搜索结果页�
 
 ---
 
-##改进目标
+## 改进目标
 
 未来这个插件将会支持
-* 除了百度意外，更多的搜索网站
+* 除了百度以外更多的搜索网站
 * 更加彻底的过滤广告策略
